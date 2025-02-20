@@ -4,7 +4,9 @@ This repository contains a regex pattern designed to filter out inappropriate wo
 
 # Features
 Multilingual Support: The regex pattern supports both Russian and English languages, allowing for a wide range of inappropriate words to be detected.
+
 Flexible Matching: It allows for variations in character usage, such as special characters and spacing, to bypass simple filters.
+
 Case Insensitivity: The pattern is case-insensitive, making it effective regardless of how words are capitalized.
 
 # Contributing
