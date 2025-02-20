@@ -7,8 +7,8 @@ Multilingual Support: The regex pattern supports both Russian and English langua
 Flexible Matching: It allows for variations in character usage, such as special characters and spacing, to bypass simple filters.
 Case Insensitivity: The pattern is case-insensitive, making it effective regardless of how words are capitalized.
 
-Contributing
+# Contributing
 If you have suggestions for improvements or additional patterns, feel free to open an issue or submit a pull request.
 
-License
+# License
 This project is licensed under the MIT License - see the LICENSE file for details.
