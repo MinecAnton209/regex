@@ -11,4 +11,4 @@ Case Insensitivity: The pattern is case-insensitive, making it effective regardl
 If you have suggestions for improvements or additional patterns, feel free to open an issue or submit a pull request.
 
 # License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/MinecAnton209/regex/blob/main/LICENSE) file for details.
